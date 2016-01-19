@@ -13,9 +13,9 @@ import re
 URL_parameter = 'ipv4'
 
 Data_parameter = 'netscreen sshd'  #参数输入
-API_URL = "https://www.censys.io/api/v1"
-UID = "2b5fb29e-7f37-4b05-a774-623750a985c8"
-SECRET = "HSvoALc92fALeNSkBupaYjby7490vszD"
+API_URL = ""
+UID = ""
+SECRET = "" 
 
 #result_view = ''  #查看单个详细结果
 #res_view = requests.get(API_URL + "/view/"+URL_parameter+"/"+Data_parameter, auth=(UID, SECRET))
